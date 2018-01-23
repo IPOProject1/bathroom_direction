@@ -2,7 +2,8 @@
 |Input              |Process                                 |Output                                               |
 |-------------------|----------------------------------------|-----------------------------------------------------|
 |                   |                                        | Speak:Hello                                         |
-|Person says:Hello  |Understand you have just been greeted   | Speak:Hello                                         |
+|how do I get to the|
+ bathroom?          |Understand you have just been greeted   | Speak:Hello                                         |
 |                   |                                        | Speak:Hello                                         |
 
 
