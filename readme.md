@@ -10,10 +10,8 @@
 |                   |                                        |                              |
 |                   | Determine where the bathroom is in rela|                              |
 |                   |   tion to your current location        |                     | 
------------------------------------------------------------------------------
-## test
-###test3
-##merge conflicet 
+
+ 
 
 
 
