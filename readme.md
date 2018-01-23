@@ -6,11 +6,11 @@
  bathroom?          |Understand you have just been greeted   |smile                                         |
 |                   |                                        | Speak:Hello                                         |
 ------------------------------------------------------------------------------
-|                   |                                        |
-|                   |                                        |
-|                   | Determine where the bathroom is in rela|
-                    |   tion to your current location        |                     | 
------------------------------------------------------------------------------$
+|                   |                                        |                           
+|                   |                                        |                              |
+|                   | Determine where the bathroom is in rela|                              |
+|                   |   tion to your current location        |                     | 
+-----------------------------------------------------------------------------
 ## test
 ###test3
 ##merge conflicet 
