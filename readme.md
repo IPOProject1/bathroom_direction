@@ -13,17 +13,18 @@
 |                   | the person                             |                                                     |
 |                   | asking the question will need -        |
 |                   | should I ask them to                   |                                                     |           
-|-----------------------------------------------------------------------------
-|If you are not in a|
+|-------------------|---------------------------------------------------------
+|If you are not in a|Check your mood
  good mood          |
 |                   |
-|                   |
-|-----------------------------------------------------------------------------                  
-|Room 408 (the room | 
+|                   |count steps, or will vague directions be enough? Tailor your output to the desired audience
+|-------------------|----------------------------------------------------------                  
+|Room 408 (the room | Determine the landmarks that should be used to identify if the user is on the right track, e.g.Customer Service, or the student lounge
 | with a full-length|
 | glass window to   |
-| the  side)        |      | 
-------------------------------------------------------------------------------|
+| the  side)        |Determine the landmarks that should be used to determine if the user has gone too far, e.g.
+Understand that gratitude has been expressed and respond accordingly       
+--------------------|----------------------------------------------------------|
 |
 |
 |
