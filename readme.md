@@ -25,6 +25,6 @@
 | the  side)        |Determine the landmarks that should be used to determine if the user has gone too far, e.g.
 Understand that gratitude has been expressed and respond accordingly       
 --------------------|----------------------------------------------------------|
-|
-|
-|
+|                   |Determine the manner and tone to use to communicate with the person asking the question.                                                           
+|                   |Person thanks you
+|                   |
