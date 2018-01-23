@@ -3,9 +3,7 @@
 |-------------------|----------------------------------------|-----------------------------------------------------|
 |                   |                                        |                                          |
 |how do I get to the|
- bathroom?          |Understand you have just been greeted   |smile                                         
-|                   |                                        |                                          |                                                                           
-|-------------------|----------------------------------------|-----------------------------------------------------|                                                                                                                    
+ bathroom?          |Understand you have just been greeted   |smile                                                                                                                                                         
 |If you are in a
 | good mood         | Determine where the bathroom is in rela|                                                     |                            
 |                      tion to your current location          
@@ -13,7 +11,6 @@
 |                   | the person                             |                                                     |
 |                   | asking the question will need -        |
 |                   | should I ask them to                   |                                                     |           
-|-------------------|---------------------------------------------------------
 |If you are not in a|Check your mood
  good mood          |
 |                   |
@@ -24,7 +21,5 @@
 | glass window to   |
 | the  side)        |Determine the landmarks that should be used to determine if the user has gone too far, e.g.|Speak: You're welcome
 |Understand that gratitude has been expressed and respond accordingly|       
-|--------------------|----------------------------------------------------------|
 |                   |Determine the manner and tone to use to communicate with the person asking the question.                                                           
 |                   |Person thanks you
-|                   |
